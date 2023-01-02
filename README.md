@@ -1,21 +1,14 @@
-### Hi there 👋
 
-<!--
-**Prashant7970/Prashant7970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Prashant kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India with positive mindset and
+considerable technical skill.I worked more than 1300 hours
+on my technical skills for developing single as well as
+multiple page applications and also worked on the backend
+as well.Looking forward to working as an accountable and
+competent employee in an exciting tech company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant7970&label=Profile%20views&color=0e75b6&style=flat" alt="prashant7970" /> </p>
 
