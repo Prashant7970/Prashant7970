@@ -38,5 +38,5 @@ competent employee in an exciting tech company.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant7970&show_icons=true&locale=en&theme=dark" alt="prashant7970" /></p>
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=prashant7970&theme=dark&background=000000" alt="prashant7970" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=prashant7970&theme=dark&background=000000" alt="prashant7970" /> 
 
